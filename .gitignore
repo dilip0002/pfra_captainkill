@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large / generated outputs (common in GIS / HEC-RAS work)
+*.tif
+*.tiff
+*.hdf
+*.dss
+*.asc
+*.img
+
+# Temporary / model outputs
+output/
+temp/
+results/
+scratch/
+
+# Logs
+*.log
